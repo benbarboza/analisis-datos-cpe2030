@@ -6,6 +6,7 @@
 - Construcción de métricas descriptivas
 - Visualización de brechas territoriales
 
+---
 ## Preguntas de análisis
 - ¿Cómo se distribuyen los establecimientos por región y comuna?
 - ¿Qué tipos de dependencia aparecen con mayor frecuencia?
