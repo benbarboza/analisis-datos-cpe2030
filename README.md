@@ -6,10 +6,12 @@
 - Construcción de métricas descriptivas
 - Visualización de brechas territoriales
 
----
 ## Preguntas de análisis
 - ¿Cómo se distribuyen los establecimientos por región y comuna?
 - ¿Qué tipos de dependencia aparecen con mayor frecuencia?
 - ¿Cómo se distribuyen los establecimientos según su estado en CpE2030?
 - ¿Qué diferencias se observan entre zonas urbanas y rurales?
 - ¿Qué relación se puede observar con variables como "acceso a internet" o "participación en CpE2011"?
+
+## Estado del proyecto
+En desarrollo.
