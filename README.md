@@ -1,2 +1,12 @@
 # infraestructura-digital-educativa
-Análisis exploratorio de datos sobre infraestructura digital educativa en Chile
+Este proyecto analiza datos de establecimientos educacionales para explorar su estado de avance en iniciativas de conectividad.
+
+## Contenido
+- Análisis exploratorio
+- Visualización de datos
+- Métricas básicas
+
+## Herramientas
+- Python
+- pandas
+- matplotlib
